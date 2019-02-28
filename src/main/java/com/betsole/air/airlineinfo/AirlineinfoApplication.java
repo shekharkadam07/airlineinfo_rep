@@ -10,5 +10,5 @@ public class AirlineinfoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AirlineinfoApplication.class, args);
-	}
+	}   // test
 }
